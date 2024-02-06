@@ -1,6 +1,6 @@
 Title: Currency Exchange Tracker - GitHub Repository
 
-Description:
+Description:-
 
 Welcome to the official GitHub repository for Currency Exchange Tracker, an advanced mobile app designed to provide users with real-time and accurate currency exchange rates. This open-source project showcases a robust implementation of the Model-View-ViewModel (MVVM) architecture, WorkManager, and Room Database, all powered by the OpenExchange Rates API.
 
