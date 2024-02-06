@@ -86,8 +86,8 @@ dependencies {
     implementation(libs.retrofit.core)
     implementation(libs.retrofit.moshi)
     implementation(libs.retrofit.moshi.converter)
-        implementation ("com.squareup.retrofit2:converter-gson:2.9.0")
-    ksp ("com.squareup.moshi:moshi-kotlin-codegen:1.9.1")
+    implementation (libs.converter.gson)
+    ksp (libs.moshi.kotlin.codegen)
     implementation(libs.okhttp.logging)
 
     implementation(libs.room.runtime)
